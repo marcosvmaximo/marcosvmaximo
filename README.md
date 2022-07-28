@@ -6,10 +6,18 @@
 </div>
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/marcos-maximo-b4421a1b9/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="43" alt="linkedin logo"  />
+  </a>
+  <a href="Marcos Maximo#5227">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="43" alt="discord logo"  />
+  </a>
+  <a href="mailto:marcosvinmaximo@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="43" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/marcosvmaximo/">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="43" alt="instagram logo"  />
+  </a>
 </div>
 <br>
 <h2>💁 About Me</h2>
