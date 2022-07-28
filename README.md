@@ -1,4 +1,4 @@
-<h1 align="left">Hi There 👋!</h1>
+<h1 align="center">Hi There 👋!</h1>
 
 ###
 <div align="center">
@@ -11,19 +11,20 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="43" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="43" alt="instagram logo"  />
 </div>
-<h3>About Me</h3>
+<br>
+<h2>💁 About Me</h2>
 <p> My name is Marcos, I'am 19 years old and home to from Brazil 🇧🇷. I really like summer and its heat, I also like swimming and juices ;)<p>
 
 <h5>🚀 What are my goals</h5
-<p> At the moment I am dedicating all my efforts to studies, I recently started a software engineering college, in addition, I study courses, books and research every day. Some of the technologies I am currently studying and plan to study in the future are further down the page. </p>
+<p> At the moment I am dedicating all my efforts to studies, I recently started a <b>software engineering college</b>, in addition, I study courses, books and research every day. Some of the technologies I am currently studying and plan to study in the future are further down the page. </p>
 
 <p> My main objective at the moment is to get a job as a developer, but until then I continue doing personal projects and advancing in my studies</p>
 
 <h5>👨‍💻 I'm studying at the moment</h5>
-<p> I'm taking courses in javascript, css with Sass and starting in ReactJS. The platform where I take my courses is Origamid, I also take some at Rocketseat, among others.
+<p> I'm taking courses in <b>Javascript</b>, CSS with Sass and starting in <b>ReactJS</b>. The platform where I take my courses is Origamid, I also take some at Rocketseat, among others.
 </p>
 
-<h5>🏃‍ I invite you to see my portfolio and some of the projects I've done.</h5>
+<h5>🏃‍ <i>I invite you to see my portfolio and some of the projects I've done.</i></h5>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=true&username=65" height="150" alt="stats graph"  />
@@ -76,8 +77,8 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/65/65/blob/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/marcosvmaximo/marcosvmaximo/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
-<p>thanks so much.<p>
+<small>thanks so much.<small>
