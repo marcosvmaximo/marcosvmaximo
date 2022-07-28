@@ -77,8 +77,8 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/marcosvmaximo/marcosvmaximo/blob/output/github-contribution-grid-snake.svg)
-
+  ![Snake animation](https://github.com/marcosvmaximo/marcosvmaximo/blob/output/github-contribution-grid-snake.svg)
+  
 ###
 
 <small>thanks so much.<small>
