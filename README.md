@@ -41,7 +41,7 @@
 
 ###
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=https://github.com/marcosvmaximo/&left_color=orange&right_color=darkorange"  />
-
+<!-- 
 <div align="left">
   <h3> Languagens & Technologies I use in my day</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="40" alt="javascript logo"  />
@@ -52,7 +52,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="40" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="40" alt="bootstrap logo"  />
 </div>
-<!-- 
+
 <div align="left">
   <h3> Technologies that I have some knowledge </h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="40" alt="nodeJS logo"  />
