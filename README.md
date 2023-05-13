@@ -1,4 +1,4 @@
-<h1 align="center">Hi There 👋!</h1>
+<!-- <h1 align="center">Hi There 👋!</h1>
 
 ###
 <div align="center">
@@ -31,7 +31,7 @@
 <h5>👨‍💻 I'm studying at the moment</h5>
 <p> I'm taking courses in <b>Javascript</b>, CSS with Sass and starting in <b>ReactJS</b>. The platform where I take my courses is Origamid, I also take some at Rocketseat, among others.
 </p>
-
+ -->
 <h5>🏃‍ <i>I invite you to see my portfolio and some of the projects I've done.</i></h5>
 
 <div align="center">
@@ -52,7 +52,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="40" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="40" alt="bootstrap logo"  />
 </div>
-
+<!-- 
 <div align="left">
   <h3> Technologies that I have some knowledge </h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="40" alt="nodeJS logo"  />
@@ -90,5 +90,5 @@
 ###
 
 <small>thanks so much.<small>
- 
+  -->
  .NET, Flutter, Angular ....
